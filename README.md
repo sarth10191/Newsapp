@@ -1,0 +1,2 @@
+# Newsapp
+Android Studio Project
